@@ -220,6 +220,7 @@ final class Device implements DeviceInterface
             "S23" => "PORT",
             "S27" => "ROAM",
             "S35" => "ROAM SL",
+            "S36" => "RAY",
             "ZP80"  =>  "ZONEPLAYER",
             "ZP90"  =>  "CONNECT",
             "S16" => "CONNECT:AMP",
